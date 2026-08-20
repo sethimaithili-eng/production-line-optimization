@@ -1,0 +1,8 @@
+stage,breakdown_events,breakdowns_per_shift,breakdown_downtime_min,mean_min_per_breakdown,running_min_per_breakdown
+Raw Material Preparation,254,0.2,11384.0,44.8,2169.2
+Mixing,390,0.31,22131.0,56.7,1367.3
+Processing,334,0.27,17034.0,51.0,1631.5
+Filling,928,0.49,52340.0,56.4,805.6
+Packaging,1227,0.65,51791.0,42.2,553.9
+Quality Inspection,170,0.14,9235.0,54.3,3273.5
+Dispatch,134,0.11,7123.0,53.2,4225.0

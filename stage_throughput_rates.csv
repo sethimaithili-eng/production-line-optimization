@@ -1,0 +1,8 @@
+stage_index,stage,theoretical_capacity_per_day,effective_capacity_per_day,design_units_per_hour,demonstrated_units_per_hour
+1,Raw Material Preparation,52364.0,45771.0,3273.0,2861.0
+2,Mixing,44308.0,36425.0,2769.0,2277.0
+3,Processing,48000.0,40954.0,3000.0,2560.0
+4,Filling,43200.0,31337.0,2700.0,1959.0
+5,Packaging,50824.0,35068.0,3176.0,2192.0
+6,Quality Inspection,50087.0,42564.0,3130.0,2660.0
+7,Dispatch,57600.0,50855.0,3600.0,3178.0

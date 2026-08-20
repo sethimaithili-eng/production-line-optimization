@@ -1,0 +1,17 @@
+stage,machine_id,breakdown_events,breakdowns_per_shift,breakdown_downtime_min,mean_min_per_breakdown,running_min_per_breakdown
+Raw Material Preparation,RMP-01,133,0.21,5719.0,43.0,2063.3
+Raw Material Preparation,RMP-02,121,0.19,5664.0,46.8,2285.6
+Mixing,MIX-01,187,0.3,11052.0,59.1,1424.6
+Mixing,MIX-02,203,0.32,11079.0,54.6,1314.5
+Processing,PRC-01,142,0.23,7155.0,50.4,1949.5
+Processing,PRC-02,192,0.31,9878.0,51.4,1396.2
+Filling,FIL-01,345,0.55,18261.0,52.9,715.3
+Filling,FIL-02,303,0.48,18504.0,61.1,808.5
+Filling,FIL-03,280,0.45,15575.0,55.6,913.7
+Packaging,PKG-01,398,0.64,15972.0,40.1,580.8
+Packaging,PKG-02,377,0.6,16157.0,42.9,615.9
+Packaging,PKG-03,452,0.72,19662.0,43.5,478.6
+Quality Inspection,QCI-01,86,0.14,4683.0,54.5,3239.8
+Quality Inspection,QCI-02,84,0.13,4552.0,54.2,3308.1
+Dispatch,DSP-01,64,0.1,3735.0,58.4,4412.1
+Dispatch,DSP-02,70,0.11,3388.0,48.4,4054.0

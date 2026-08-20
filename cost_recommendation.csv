@@ -1,0 +1,7 @@
+item
+"Start with scenario C (Cut bottleneck downtime by 30%). It needs no capital outlay, so there is nothing to pay back, and it returns INR 1,925,722 net per year (3.4x its cost over 3 years)."
+"Of the options requiring capital, scenario D (Cut changeover time by 50% (SMED)) pays back fastest at 0.60 years on INR 650,000 invested."
+"Scenario F delivers the largest absolute return at INR 6,046,846 net per year, but it is also the largest commitment (INR 5,150,000 capital and INR 2,450,000 per year)."
+Scenario E is the least efficient use of money (1.83x over 3 years) and should be the last one funded.
+The result most exposed to assumption risk is scenario E: it needs 55% of its extra output to be sold before it covers its annual cost. Moderate -- needs a substantial share of extra output sold.
+"Sequencing matters as much as selection: because relieving the bottleneck moves the constraint, the scenarios should be funded one at a time and the capacity analysis re-run after each, rather than approved as a single package."

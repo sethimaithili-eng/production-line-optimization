@@ -1,0 +1,4 @@
+stage_index,stage,machine_id,theoretical_capacity_per_day,effective_capacity_per_day,actual_units_per_day,capacity_utilisation_pct,downtime_pct,oee,breakdowns_per_shift
+4,Filling,FIL-02,14400.0,10277.0,10534.0,73.15,18.47,0.7137,0.48
+4,Filling,FIL-01,14400.0,10328.0,10596.0,73.58,17.87,0.7172,0.55
+4,Filling,FIL-03,14400.0,10734.0,11005.0,76.42,14.86,0.7454,0.45

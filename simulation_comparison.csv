@@ -1,0 +1,2 @@
+bottleneck_stage,analytical_capacity_per_day,downstream_cumulative_yield,yield_adjusted_capacity_per_day,simulated_output_per_day,yield_loss_per_day,coupling_loss_per_day,coupling_loss_pct,total_gap_pct
+Filling,31337.0,0.9828,30799.0,28788.0,538.0,2011.0,6.53,8.13

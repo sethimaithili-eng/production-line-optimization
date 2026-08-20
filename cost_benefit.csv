@@ -1,0 +1,7 @@
+scenario,name,annual_gain_units,gain_pct,one_time_cost,annual_cost,annual_benefit,net_annual_benefit,payback_years,benefit_cost_ratio_3yr,cumulative_net_3yr,cost_items
+A,Baseline,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,none (baseline)
+B,Add 1 machine at the bottleneck,1166813.0,11.9,4500000.0,900000.0,5250658.0,4350658.0,1.03,2.19,8551976.0,1 machine purchase + annual running cost
+C,Cut bottleneck downtime by 30%,605716.0,6.18,0.0,800000.0,2725722.0,1925722.0,0.0,3.41,5777166.0,enhanced maintenance programme (annual)
+D,Cut changeover time by 50% (SMED),275174.0,2.81,650000.0,150000.0,1238283.0,1088283.0,0.6,3.38,2614849.0,"SMED setup, tooling and training + annual upkeep"
+E,Cut defect rate by 50%,243725.0,2.48,0.0,600000.0,1096762.0,496762.0,0.0,1.83,1490288.0,quality improvement programme (annual)
+F,Combined (B + C + D + E),1888188.0,19.25,5150000.0,2450000.0,8496846.0,6046846.0,0.85,2.04,12990538.0,all of the above combined

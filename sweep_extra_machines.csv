@@ -1,0 +1,6 @@
+extra_machines,line_capacity_per_day,gain_pct,bottleneck_stage,still_the_bottleneck
+0,31339.0,0.0,Filling,True
+1,35067.0,11.9,Packaging,False
+2,35067.0,11.9,Packaging,False
+3,35067.0,11.9,Packaging,False
+4,35067.0,11.9,Packaging,False

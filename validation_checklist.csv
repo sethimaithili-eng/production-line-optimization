@@ -1,0 +1,17 @@
+check,result,detail
+Dataset passes its own integrity checks,PASS,all internal data checks passed
+No negative or impossible downtime,PASS,
+Good + defective units never exceed units produced,PASS,
+Every OEE component lies between 0 and 1,PASS,
+OEE equals Availability x Performance x Quality for every stage,PASS,"largest gap 3.38e-05 -- stored values are rounded to 4 decimals, so an exact match is not expected"
+Effective capacity reconciles with theoretical x OEE (within 1%),PASS,largest gap 0.002%
+"Bottleneck is the LOWEST effective capacity, not the highest downtime",PASS,bottleneck Filling; worst downtime Packaging
+Bottleneck is not simply the lowest OEE either,PASS,bottleneck Filling; worst OEE Packaging
+Constraint is stable across every month analysed,PASS,12 of 12 months
+Baseline scenario shows exactly zero gain,PASS,
+Combined scenario gain is LESS than the sum of individual gains,PASS,combined +19.25% vs additive +23.37%
+Pareto result was not forced to 80/20,PASS,"4 causes needed, reported honestly"
+Simulated downtime matches measured availability at every stage,PASS,largest gap 1.59 pp
+Simulated output does not exceed the constraint's capacity,PASS,"28,788 vs ceiling 30,799"
+All 13 charts written to disk,PASS,13 PNG files found
+No financial figure is presented as a real company value,PASS,every currency value is labelled an assumption in config.py and cost_analysis.py

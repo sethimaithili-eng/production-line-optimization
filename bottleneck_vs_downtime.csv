@@ -1,0 +1,2 @@
+worst_downtime_stage,worst_downtime_pct,bottleneck_stage,bottleneck_downtime_pct,same_stage,verdict
+Packaging,24.6,Filling,17.07,False,"Packaging loses the most time (24.6% downtime) but is NOT the bottleneck: even after those losses it can still deliver 35,068 good units/day. Filling is the constraint at only 31,337 good units/day, because its cycle time of 4.46 s because its cycle time of 4.46 s across 3 machines caps output before downtime is even considered."

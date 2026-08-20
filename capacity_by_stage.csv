@@ -1,0 +1,8 @@
+stage_index,stage,machines,operators_per_shift,ideal_cycle_time_sec,actual_cycle_time_sec,available_hours_per_day,operating_hours_per_day,theoretical_capacity_per_day,effective_capacity_per_day,actual_units_per_day,actual_good_units_per_day,capacity_utilisation_pct,downtime_pct,defect_pct,availability,performance,quality,oee
+1,Raw Material Preparation,2,2,2.2,2.3,32.0,29.34,52364.0,45771.0,45909.0,45771.0,87.67,8.32,0.3,0.9168,0.9563,0.997,0.8741
+2,Mixing,2,2,2.6,2.77,32.0,28.39,44308.0,36425.0,36870.0,36426.0,83.21,11.27,1.2,0.8873,0.9378,0.988,0.8221
+3,Processing,2,2,2.4,2.53,32.0,29.02,48000.0,40954.0,41285.0,40954.0,86.01,9.33,0.8,0.9067,0.9486,0.992,0.8532
+4,Filling,3,3,4.0,4.46,48.0,39.81,43200.0,31337.0,32135.0,31339.0,74.39,17.07,2.48,0.8293,0.897,0.9752,0.7254
+5,Packaging,3,4,3.4,3.66,48.0,36.19,50824.0,35068.0,35608.0,35068.0,70.06,24.6,1.52,0.754,0.9292,0.9848,0.69
+6,Quality Inspection,2,3,2.3,2.5,32.0,29.63,50087.0,42564.0,42606.0,42563.0,85.06,7.4,0.1,0.926,0.9186,0.999,0.8498
+7,Dispatch,2,3,2.0,2.13,32.0,30.15,57600.0,50855.0,50907.0,50856.0,88.38,5.79,0.1,0.9421,0.9381,0.999,0.8829

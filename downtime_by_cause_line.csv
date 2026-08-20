@@ -1,0 +1,7 @@
+scope,cause,total_downtime_min,avg_min_per_shift,pct_of_downtime,pct_of_planned_time,cumulative_pct,pareto_rank
+whole line,Equipment Breakdown,171038.0,17.08,27.21,3.56,27.21,1
+whole line,Changeover / Setup,148598.0,14.84,23.64,3.09,50.85,2
+whole line,Minor Stoppages,103142.0,10.3,16.41,2.15,67.26,3
+whole line,Material Shortage,81275.0,8.11,12.93,1.69,80.19,4
+whole line,Operator Unavailability,67407.0,6.73,10.72,1.4,90.91,5
+whole line,Quality Issue,57188.0,5.71,9.1,1.19,100.01,6

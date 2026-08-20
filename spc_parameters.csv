@@ -1,0 +1,5 @@
+metric,chart_type,baseline_days,centre_line,sigma_estimate,sigma_multiplier,upper_control_limit,lower_control_limit,half_width,points_total,points_beyond_limits,points_in_long_run,points_out_of_control,out_of_control_pct,centre_line_pct,avg_daily_units
+good_units,individuals,90,31475.1,1698.2,3,36569.6,26380.6,5094.5,313,1,18,19,6.07,,
+downtime_min,individuals,90,478.2,118.0,3,832.2,124.2,354.0,313,1,18,19,6.07,,
+defect_rate,individuals,90,0.02509,0.004082,3,0.03734,0.01285,0.01225,313,1,26,27,8.63,,
+defect_rate,p-chart (binomial limits),90,0.02508,,3,,,0.00262,313,141,26,158,50.48,2.508,32135.0

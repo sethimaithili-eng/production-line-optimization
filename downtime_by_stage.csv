@@ -1,0 +1,8 @@
+stage_index,stage,total_downtime_min,avg_min_per_shift,downtime_pct_of_planned,largest_cause
+1,Raw Material Preparation,49981.0,39.92,8.32,Material Shortage
+2,Mixing,67711.0,54.08,11.27,Equipment Breakdown
+3,Processing,56052.0,44.77,9.33,Equipment Breakdown
+4,Filling,153878.0,81.94,17.07,Equipment Breakdown
+5,Packaging,221760.0,118.08,24.6,Changeover / Setup
+6,Quality Inspection,44463.0,35.51,7.4,Operator Unavailability
+7,Dispatch,34805.0,27.8,5.79,Operator Unavailability

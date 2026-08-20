@@ -1,0 +1,6 @@
+scenario,name,annual_cost,benefit_at_full_demand,break_even_realisation_pct,robustness
+B,Add 1 machine at the bottleneck,900000,5250658.0,17.1,robust -- covers its cost even if most extra output is unsold
+C,Cut bottleneck downtime by 30%,800000,2725722.0,29.4,robust -- covers its cost even if most extra output is unsold
+D,Cut changeover time by 50% (SMED),150000,1238283.0,12.1,robust -- covers its cost even if most extra output is unsold
+E,Cut defect rate by 50%,600000,1096762.0,54.7,moderate -- needs a substantial share of extra output sold
+F,Combined (B + C + D + E),2450000,8496846.0,28.8,robust -- covers its cost even if most extra output is unsold

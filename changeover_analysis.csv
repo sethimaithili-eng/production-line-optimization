@@ -1,0 +1,2 @@
+line_total_changeover_min,line_changeover_pct_of_downtime,line_changeover_pct_of_planned,bottleneck_stage,bottleneck_changeover_min_total,bottleneck_changeover_min_per_shift,bottleneck_changeover_min_per_day,bottleneck_saleable_units_lost_per_day,bottleneck_saleable_units_lost_per_year
+148598.0,23.64,3.09,Filling,41944.0,22.33,134.01,1758.0,550356.0

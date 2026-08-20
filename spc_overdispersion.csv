@@ -1,0 +1,2 @@
+binomial_half_width_pp,observed_half_width_pp,dispersion_ratio,overdispersed,verdict
+0.262,1.225,4.68,True,"Overdispersion confirmed. The binomial p-chart allows the daily defect rate to move only +/-0.262 percentage points, but the observed day-to-day variation is +/-1.225 points -- 4.7 times wider. The p-chart therefore flags 50.5% of days as abnormal, against 8.6% for the individuals chart. With 32,135 units inspected per day the binomial model is too optimistic about how steady the underlying rate is, so the individuals chart is the one to act on."

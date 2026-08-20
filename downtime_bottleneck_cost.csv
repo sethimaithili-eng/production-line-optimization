@@ -1,0 +1,11 @@
+item
+"     scope                    cause  ...  saleable_units_lost_per_day  saleable_units_lost_per_year
+0  Filling      Equipment Breakdown  ...                       2194.0                      686722.0
+1  Filling       Changeover / Setup  ...                       1758.0                      550254.0
+2  Filling          Minor Stoppages  ...                        875.0                      273875.0
+3  Filling            Quality Issue  ...                        751.0                      235063.0
+4  Filling        Material Shortage  ...                        499.0                      156187.0
+5  Filling  Operator Unavailability  ...                        373.0                      116749.0
+
+[6 rows x 11 columns]"
+Filling

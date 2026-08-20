@@ -1,0 +1,8 @@
+item
+"                         loss_type oee_component  ...  units_lost_per_year  pct_of_design_capacity
+0          Stopped time (downtime)  Availability  ...            2308137.0                   17.07
+1        Running slow (speed loss)   Performance  ...            1154987.0                    8.54
+2  Defective output (quality loss)       Quality  ...             249450.0                    1.84
+
+[3 rows x 5 columns]"
+"{'bottleneck_stage': 'Filling', 'design_capacity_per_day': 43200.0, 'demonstrated_capacity_per_day': 31339.0, 'total_capacity_lost_per_day': 11861.0, 'total_capacity_lost_per_year': 3712574.0, 'largest_single_loss': 'Stopped time (downtime)', 'largest_single_loss_units_per_day': 7374.0, 'recoverable_pct_of_design': 27.46}"

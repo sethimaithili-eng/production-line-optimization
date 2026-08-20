@@ -1,0 +1,6 @@
+item
+"Baseline line capacity is 31,339 good units/day, set by Filling."
+"The largest single-lever gain is scenario B (Add 1 machine at the bottleneck) at +11.9% (+3,728 units/day)."
+"The combined scenario reaches +19.2% (+1,888,188 units/year), which is less than the sum of the individual gains because the constraint moves once the bottleneck is relieved."
+"In scenario B, the constraint moves from Filling to Packaging. Any further spend on Filling alone would add nothing: Packaging now sets the pace."
+"In scenario F, the constraint moves from Filling to Packaging. Any further spend on Filling alone would add nothing: Packaging now sets the pace."

@@ -1,0 +1,7 @@
+scenario,name,bottleneck_stage,constraint_moved,line_capacity_per_day,gain_units_per_day,gain_pct,annual_good_units,annual_gain_units,bottleneck_oee,headroom_to_next_pct
+A,Baseline,Filling,False,31339.0,0.0,0.0,9809026.0,0.0,0.7254,11.9
+B,Add 1 machine at the bottleneck,Packaging,True,35067.0,3728.0,11.9,10975839.0,1166813.0,0.69,3.88
+C,Cut bottleneck downtime by 30%,Filling,False,33274.0,1935.0,6.18,10414742.0,605716.0,0.7702,5.39
+D,Cut changeover time by 50% (SMED),Filling,False,32218.0,879.0,2.81,10084200.0,275174.0,0.7458,14.02
+E,Cut defect rate by 50%,Filling,False,32117.0,779.0,2.48,10052751.0,243725.0,0.7435,11.12
+F,Combined (B + C + D + E),Packaging,True,37371.0,6033.0,19.25,11697214.0,1888188.0,0.7353,0.17

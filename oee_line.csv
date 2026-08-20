@@ -1,0 +1,2 @@
+planned_time_min,operating_time_min,units_produced,good_units,defective_units,rework_units,availability,performance,quality,oee,downtime_loss_min,speed_loss_min,quality_loss_min,productive_time_min,dominant_loss
+4807680.0,4179031.5,89305088,88571767,733321,418982,0.8692,0.9304,0.9918,0.8021,628648.5,290737.5,38986.0,3849307.9,Availability
