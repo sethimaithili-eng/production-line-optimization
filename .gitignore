@@ -1,0 +1,26 @@
+  # Python
+  __pycache__/
+  *.py[cod]
+  *.egg-info/
+  .Python
+
+  # Virtual environments
+  venv/
+  .venv/
+  env/
+  
+  # Editors and OS
+  .vscode/
+  .idea/
+  .DS_Store
+  Thumbs.db
+  desktop.ini
+
+  # Jupyter
+  .ipynb_checkpoints/
+
+  # NOTE: data/ and results/ are deliberately NOT ignored.
+  # The dataset is synthetic and reproducible from a fixed seed, and the
+  # tables and charts are the output a reader should be able to see without
+  # installing anything or running the code. Excluding them would make the
+  # repository unreadable to the audience it exists for.
